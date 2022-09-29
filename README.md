@@ -1,4 +1,4 @@
-# Pewlett Hackard Retirement Analysis 
+# Pewlett Hackard Employee Analysis and Potential Mentorship Candidates
 
 ## Overview
 Pewlett Hackard is facing a "silver tsunami", in which the company faces a lot of employees getting ready to age out of the program. This is going to create a considerable amount of openings. We are tasked with future-proofing the company by determining how many people will be retiring and, of those employees, who is eligible for a retirement package. Additionally, we will also determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. We'll use Postgres to create a database and pgAdmin to work with the data. 
@@ -10,26 +10,14 @@ We have determined that anyone born between 1952 and 1955 will begin to retire a
 - Software: pgAdmin 4 version 6.12, PostgreSQL 14.5
 
 ## Results
+We created a table that holds all the titles of current employees who were born between January 1, 1952 and December 31, 1955. Our table contains the most recent titles of each employee. To determine who is eligible to participate in a mentorship program, we created another table that holds the current employees who were born between January 1, 1965 and December 31, 1965.
 
-To retrieve weather data, we completed the following:
-- Generate a set of 2,000 random latitudes and longitudes
-- Retrieve the nearest city 
-- Perform an API call with the OpenWeatherMap
-- Use your API skills to retrieve the current weather description for each city 
-- Create a new DataFrame containing the updated weather data
+### The Number of Retiring Employees by Title
 
-To create a customer travel destinations map, we completed the following:
-- Use input statements to retrieve customer weather preferences 
-- Use those preferences to identify potential travel destinations and nearby hotels
-- Show those destinations on a marker layer map with pop-up markers
+### The Employees Eligible for the Mentorship Program
+There is a bulleted list with four major points from the two analysis deliverables
 
-To create a travel itinerary map, we completed the following:
-- Use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations
-- Create a marker layer map with a pop-up marker for each city on the itinerary.
-
-This is an example of 4 locations in Spain for the travel itinerary.
-<img src="https://github.com/laneyberm/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png" width="600">
-<img src="https://github.com/laneyberm/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png" width="600">
 
 ## Summary
-After completing the testing on PlanMyTrip, all of the functions work. Users will be able to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels and create a travel itinerary including a travel route. 
+There is a total count of 90398 positions to be open in Pewlett Hackard in the near future, they are: 29414 Senior Engineer positions, 28254 Senior Staff, 14222 Engineer, 12243 Staff, 4502 Technique Leaders, 1761 Assistant Engineers and 2 Manager positions. Also, there is a total of 1549 qualified employees who are eligible to mentor new generation of Pewlett Hackard.
+The summary addresses the two questions and contains two additional queries or tables that may provide more insight.
