@@ -13,8 +13,10 @@ We have determined that anyone born between 1952 and 1955 will begin to retire a
 We created a table that holds all the titles of current employees who were born between January 1, 1952 and December 31, 1955. Our table contains the most recent titles of each employee. To determine who is eligible to participate in a mentorship program, we created another table that holds the current employees who were born between January 1, 1965 and December 31, 1965.
 
 ### The Number of Retiring Employees by Title
+<img src="https://github.com/laneyberm/Pewlett-Hackard-Analysis/blob/main/retiring_titles.png" width="300">
 
 ### The Employees Eligible for the Mentorship Program
+<img src="https://github.com/laneyberm/Pewlett-Hackard-Analysis/blob/main/mentorship_eligibilty_titles" width="300">
 There is a bulleted list with four major points from the two analysis deliverables
 
 
