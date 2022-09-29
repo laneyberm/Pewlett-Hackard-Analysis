@@ -14,14 +14,17 @@ We created a table that holds all the titles of current employees who were born 
 
 ### The Number of Retiring Employees by Title
 <img src="https://github.com/laneyberm/Pewlett-Hackard-Analysis/blob/main/retiring_titles.png" width="300">
+
 - There are 72,459 total employees eligible for retirement.
 - The results from the analysis show that the most jobs titles retiring are 25,916 Senior Engineers and 24,926 Senior Staff.
 
 ### The Employees Eligible for the Mentorship Program
 <img src="https://github.com/laneyberm/Pewlett-Hackard-Analysis/blob/main/mentorship_eligibilty_titles.png" width="300">
+
 - There are 1,549 employees elibible for the mentorship program.
 - The results from the analysis show that the most jobs titles retiring are 569 Senior Staff, 501 Engineers and 169 Senior Engineers. 
 
 ## Summary
-There is a total count of 90398 positions to be open in Pewlett Hackard in the near future, they are: 29414 Senior Engineer positions, 28254 Senior Staff, 14222 Engineer, 12243 Staff, 4502 Technique Leaders, 1761 Assistant Engineers and 2 Manager positions. Also, there is a total of 1549 qualified employees who are eligible to mentor new generation of Pewlett Hackard.
-The summary addresses the two questions and contains two additional queries or tables that may provide more insight.
+After completing the analysis, we have determined the amount of employees eligible for retirement benefits. We have also found the job titles of these people. By doing so, we can determine where the company needs to focus on hiring or recruitment. Additionally, we have determined the amount of people eligible for the mentorship program and the job titles that they possess. The mentorship program will greatly benefit the engineers as they can move up into the roles of senior engineers. 
+
+Additional queries to find would include employees that want to reapply into different departments or different roles like senior staff, considering their qualifications and years of experience. Other information we should gather is last year's performance evaluations for employees to be considered into the mentorship program. 
