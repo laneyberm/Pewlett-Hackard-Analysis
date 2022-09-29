@@ -16,7 +16,7 @@ We created a table that holds all the titles of current employees who were born 
 <img src="https://github.com/laneyberm/Pewlett-Hackard-Analysis/blob/main/retiring_titles.png" width="300">
 
 ### The Employees Eligible for the Mentorship Program
-<img src="https://github.com/laneyberm/Pewlett-Hackard-Analysis/blob/main/mentorship_eligibilty_titles" width="300">
+<img src="https://github.com/laneyberm/Pewlett-Hackard-Analysis/blob/main/mentorship_eligibilty_titles.png" width="300">
 There is a bulleted list with four major points from the two analysis deliverables
 
 
